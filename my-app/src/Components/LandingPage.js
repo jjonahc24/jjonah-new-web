@@ -76,7 +76,6 @@
             {/*more about me page transition*/} 
                 
             <h3 className="absolute bottom-[9px] flex justify-center font-bold font-geist text-[11px]">projects page coming soon</h3>
-            <Loading className = "absolute bottom-[5px] flex h-5 right-[92px]" /> 
 
         </div>
       );
