@@ -23,7 +23,7 @@
                   <LinkedInIcon className="absolute top-[26px] right-8 w-6 h-6 transition-transform duration-300 hover:scale-110 hover:text-blue-500" />
               </a>
               
-              <a href = "jjonah.c@berkeley.edu"> 
+              <a href="mailto:jjonah.c@berkeley.edu"> 
                   <GmailIcon className="absolute top-[26px] right-16 w-6 h-6 transition-transform duration-300 hover:scale-110 hover:text-blue-500" />
               </a> 
 
